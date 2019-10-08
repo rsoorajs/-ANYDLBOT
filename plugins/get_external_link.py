@@ -83,7 +83,7 @@ def get_link(bot, update):
             adfulurl = file_inance.webContentLink
             max_days = 0
         else:
-            url = "http://somsung.cn/{}".format(upload_name)
+            url = "https://transfer.zonari.us/{}".format(upload_name)
             max_days = "3"
             command_to_exec = [
                 "curl",
