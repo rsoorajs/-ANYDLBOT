@@ -18,7 +18,7 @@ FEATURES:
 👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
 👉 <a href="https://t.me/SpEcHlDe/611">Get Low Speed Direct Download Link of any Telegram file</a>
 -------
-Plan: B
+Plan: Bg
 Filesize limit: 1500 MB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 127 / 30 Days
